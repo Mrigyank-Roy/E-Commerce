@@ -2,6 +2,8 @@
 
 This project is a multi-page, interactive front-end clone of the Amazon website, created using HTML, CSS, and JavaScript. It aims to replicate the look, feel, and some basic interactive features of the Amazon website to practice and showcase web development skills.
 
+Link : https://amazon-clone-mrigyank.netlify.app/
+
 ## Features
 
 - **Home Page** : Displays featured products and offers.
